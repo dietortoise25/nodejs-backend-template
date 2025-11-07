@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import { logger, pinoHttpMiddleware } from "./utils/logger.helper.ts";
+import { pinoHttpMiddleware } from "./utils/logger.helper.ts";
 
 const app = express();
 app.use(express.json());

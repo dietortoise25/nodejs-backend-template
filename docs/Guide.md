@@ -15,3 +15,4 @@
 3. [ORM-drizzle.md](ORM-drizzle.md)
 4. [schema 配置.md](schema配置.md)
 5. [日志系统.md](日志系统.md)
+6. [IDE 配置.md](IDE配置.md)
